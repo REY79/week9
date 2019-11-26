@@ -1,0 +1,12 @@
+:root{
+    --accent:#ff66bf;
+    --dark:#1a2336;
+    --light:#ebf5ee;
+    --border:5px solid var(--accent);
+
+
+}
+body{
+    front-family:'oswald',sans-serif;
+    front-size
+}
